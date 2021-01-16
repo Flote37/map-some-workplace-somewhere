@@ -220,6 +220,12 @@
                  "y":382.411238333494
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"test-room-workadventure-1"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
