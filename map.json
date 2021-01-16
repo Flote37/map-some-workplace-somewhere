@@ -921,6 +921,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tileset_wall",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "spacing":0,
          "tilecount":240,
          "tileheight":32,
