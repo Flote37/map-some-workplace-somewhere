@@ -192,6 +192,12 @@
                  "y":1117.49061868565
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/paco.apside.fr\/home"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
