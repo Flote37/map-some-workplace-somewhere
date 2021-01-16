@@ -164,20 +164,9 @@
          "name":"lien paco",
          "objects":[
                 {
-                 "height":0,
-                 "id":4,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":560.869816222457,
-                 "y":1511.23256037718
-                }, 
-                {
                  "height":31.1594342345809,
                  "id":7,
-                 "name":"",
+                 "name":"rectangle lien paco",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -209,9 +198,9 @@
          "name":"lien jitsi",
          "objects":[
                 {
-                 "height":161.46252285192,
-                 "id":8,
-                 "name":"",
+                 "height":157.213509092659,
+                 "id":9,
+                 "name":"rectangle room jitsi",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -221,24 +210,18 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":131.719426537092,
-                 "x":478.722216876744,
-                 "y":382.411238333494
+                 "width":127.470412777831,
+                 "x":480.138554796498,
+                 "y":383.827576253247
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"test-room-workadventure-1"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
         }],
- "nextlayerid":25,
- "nextobjectid":9,
+ "nextlayerid":26,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
