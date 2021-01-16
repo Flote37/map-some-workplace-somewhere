@@ -229,7 +229,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map_couloir.json#start"
+                 "value":".\/map_couloir.json#start-os1"
                 }],
          "type":"tilelayer",
          "visible":true,
