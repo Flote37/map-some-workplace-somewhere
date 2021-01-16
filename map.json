@@ -149,6 +149,17 @@
         }, 
         {
          "draworder":"topdown",
+         "id":3,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":23,
          "name":"lien paco",
          "objects":[
@@ -188,17 +199,34 @@
         }, 
         {
          "draworder":"topdown",
-         "id":3,
-         "name":"floorLayer",
-         "objects":[],
+         "id":24,
+         "name":"lien jitsi",
+         "objects":[
+                {
+                 "height":161.46252285192,
+                 "id":8,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"test-room-workadventure-1"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":131.719426537092,
+                 "x":478.722216876744,
+                 "y":382.411238333494
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
         }],
- "nextlayerid":24,
- "nextobjectid":8,
+ "nextlayerid":25,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
