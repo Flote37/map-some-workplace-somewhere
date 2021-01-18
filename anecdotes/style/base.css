@@ -1,0 +1,8 @@
+html {
+  background-color: black;
+}
+
+body > p {
+  color: white;
+  font-size: 3em;
+}
