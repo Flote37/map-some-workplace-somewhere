@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":".\/anecdotes\/ze_flote_com.html"
+                 "value":"https:\/\/flote37.github.io\/map-some-workplace-somewhere\/anecdotes\/ze_flote_com.html"
                 }],
          "tintcolor":"#da0622",
          "type":"tilelayer",
