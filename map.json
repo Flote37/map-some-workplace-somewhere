@@ -3287,6 +3287,7 @@
              "orientation":"orthogonal",
              "width":1
             },
+		 "image":"",
          "margin":0,
          "name":"CustomIcons",
          "spacing":0,
