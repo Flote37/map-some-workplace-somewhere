@@ -106,6 +106,12 @@
          "id":51,
          "name":"son machine cafe",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":".\/couler_cafe.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":26,
