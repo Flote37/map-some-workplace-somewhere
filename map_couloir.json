@@ -28,7 +28,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -46,7 +46,7 @@
                  "value":".\/map_second_open_space.json#start-entree-couloir"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -83,7 +83,7 @@
                 }],
          "tintcolor":"#3d9895",
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -101,7 +101,7 @@
                  "value":".\/map.json#start"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -125,7 +125,7 @@
          "name":"fenetres",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -137,7 +137,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -155,7 +155,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -167,7 +167,7 @@
          "name":"poign\u00e9e de porte",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -179,7 +179,7 @@
          "name":"ascenseur",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -191,7 +191,7 @@
          "name":"escaliers",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -203,7 +203,7 @@
          "name":"lavabo",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -215,7 +215,7 @@
          "name":"armoires",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -227,7 +227,7 @@
          "name":"poubelles",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -239,7 +239,7 @@
          "name":"miroir",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -251,7 +251,7 @@
          "name":"toilettes",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -263,7 +263,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -275,7 +275,7 @@
          "name":"porte open space 1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
