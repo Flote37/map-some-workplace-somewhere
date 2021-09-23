@@ -109,10 +109,10 @@
         },
         "maps/map_couloir.json": {
             "scale": 0.3265625,
-            "selectedLayer": 0,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 512.9186602870816,
-                "y": 1057.9904306220096
+                "x": 208.22966507177034,
+                "y": 1330.5263157894735
             }
         },
         "maps/map_couloir.json#floortileset": {
@@ -187,9 +187,9 @@
     "project": "map-some-workplace-somewhere.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "map.json",
         "maps/map.json",
         "maps/map_salle_reunion.json",
-        "map.json",
         "map_salle_reunion.json",
         "map_couloir.json",
         "floortileset.tsx"
