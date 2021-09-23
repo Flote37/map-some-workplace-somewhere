@@ -4,9 +4,6 @@
     ],
     "extensionsPath": "extensions",
     "folders": [
-        "maps",
-        "assets",
-        "assets/tilesets",
         "assets/sounds",
         ".",
         "src/assets/sounds"
