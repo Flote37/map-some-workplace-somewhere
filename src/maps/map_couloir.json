@@ -98,7 +98,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#start"
+                 "value":"..\/..\/map.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
