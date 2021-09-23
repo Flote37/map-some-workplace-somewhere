@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map_couloir.json#start-os1"
+                 "value":".\/maps\/map_couloir.json#start-os1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -376,13 +376,13 @@
  "nextobjectid":10,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"assets\/tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1107,7 +1107,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"assets\/tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1130,7 +1130,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"tileset_wall.png",
+         "image":"assets\/tilesets\/tileset_wall.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -3311,7 +3311,7 @@
         {
          "columns":16,
          "firstgid":561,
-         "image":"tileset_mimi.png",
+         "image":"assets\/tilesets\/tileset_mimi.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -3936,6 +3936,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":46
 }
