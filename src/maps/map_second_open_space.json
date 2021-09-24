@@ -188,7 +188,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/flote37.github.io\/map-some-workplace-somewhere\/anecdotes\/flechettes.html"
+                 "value":"https:\/\/flote37.github.io\/map-some-workplace-somewhere\/src\/anecdotes\/flechettes.html"
                 }],
          "type":"tilelayer",
          "visible":true,
